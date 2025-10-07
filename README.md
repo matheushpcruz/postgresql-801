@@ -1,4 +1,4 @@
-Assuntos da Reunião – 06/10 | PostgreSQL: Bate-Papo com o Mestre
+Assuntos da Reunião – 06/10/2025 | PostgreSQL: Bate-Papo com o Mestre
 
 Este repositório contém os arquivos utilizados durante a aula **Bate-Papo com o Mestre 4Linux** para o curso **PostgreSQL-801**.
 
